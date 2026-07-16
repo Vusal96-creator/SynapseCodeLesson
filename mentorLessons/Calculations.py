@@ -39,7 +39,19 @@
 # reng=True
 # print(not reng)
 
+# a=5
+# a=a+2
+#
+# print(a)
 
+# a=-5
+# print(abs(a))
+
+say=0
+
+while say<5:
+    print(say)
+    say += 1
 
 
 
